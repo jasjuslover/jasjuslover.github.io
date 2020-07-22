@@ -1,10 +1,10 @@
 # Site
 name: "Memoirs"
 title: "Memoirs"
-description: "I will take you on the fabulous world of exploration. Travel, culture, lifestyle. Eat, Pray, Love!"
+description: "Going to Extra Miles. Hanya warga biasa."
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/logo.png'
-baseurl: /jekyll-theme-memoirs
+baseurl: ''
 google_analytics: 'UA-xxxxxxxx-1'
 disqus: 'demowebsite'
 mailchimp-list: 'https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&amp;id=8c3d2d214b'
@@ -31,6 +31,14 @@ authors:
     web: https://www.wowthemes.net
     twitter: https://twitter.com/wowthemesnet
     description: "This is the author box. Write a short description of the author here. You are currently previewing Mediumish demo, a Jekyll template compatible with Github pages."
+  jasjuslover:
+    name: Husni Kamal
+    display_name: Husni
+    gravatar: dfcbb0f68d81a1996ca33fa18c925b9e
+    email: husnikamal3@gmail.com
+    web: https://www.husnikamal.com
+    twitter: https://twitter.com/husnikamal3
+    description: "Warga biasa. Masih resep ngoding."
 
 # Plugins
 plugins:
