@@ -57,9 +57,6 @@ jekyll-archives:
   layout: archive
   permalinks:
     category: '/category/:name/'
-
-# Google
-google_site_verification: "ZyFx84OhiIFd73CcHKuT1IdGtcSHKeq0v4NkKmRJMCI"
     
 # Pagination 
 paginate: 6
