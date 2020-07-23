@@ -29,7 +29,7 @@ H-7 keberangkatan. Mereka sudah mendapatkan rekan untuk berbagi mobil sewaan. Be
 
 Hari keberangkatan. Si pemuda dengan alasan akan pergi ke Jawa Tengah untuk mendaki gunung merbabu segera bersiap. Setelah pagi-siang, ia bekerja remote. Tentunya setelah mendapatkan izin dari atasan. Setelah packing secukupnya, ia pun pergi ke stasiun Kiara Condong, satu jam lebih awal untuk antisipasi hal buruk.
 
-![Stasiun Kiara Condong]("https://res.cloudinary.com/jasjuslover/image/upload/q_40/v1595472587/blog-husnikamal/kiara-condong_t1wirm.jpg")
+![Stasiun Kiara Condong](https://res.cloudinary.com/jasjuslover/image/upload/q_40/v1595472587/blog-husnikamal/kiara-condong_t1wirm.jpg)
 
 Ia pun berkenalan dengan salah satu rombongan, suhe namanya. Ia sering ngobrol dengan suhe di grup, namun belum pernah bertemu. Untungnya, suhe ini orangnya pun agak miring otaknya, masih satu frekuensi lah dengan si pemuda. Drama pun terjadi, ketika tiket semua ada di ian, dan dia juga telat mengirimkan foto qrcode tiket, alhasil kita hampir terlambat. Setelah berhasil di download, tiket pun segera di cetak. Suhe dan pemuda labil itu pun lantas menunggu di dekat tempat pemeriksaan tiket dan KTP. Tak lama kemudian, ian pun datang. Mereka bertiga lantas melangkah menuju jalur 3, dengan kereta mereka yang sudah stand by sejak pukul 17.00.
 
