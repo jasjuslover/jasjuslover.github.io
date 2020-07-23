@@ -5,7 +5,6 @@ author: jasjuslover
 categories: [ Traveling ]
 tags: [ Indonesia ]
 image: "https://res.cloudinary.com/jasjuslover/image/upload/q_40/v1595472585/blog-husnikamal/merbabu_gno6ik.jpg"
-rating: 4.5
 ---
 
 Mendaki gunung kala itu masihlah menjadi suatu pelarian untuknya. Dia, yang dengan hati yang senantiasa gundah, merasa tenang ketika pergi berkelana ke dataran tinggi. Entah waktu yang memang pas, atau mungkin dianya saja yang terlalu lebay.
