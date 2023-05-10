@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "Keresahan Jum'at"
+title: "Keresahan Jum'at"
 author: jasjuslover
-categories: [ Opini ]
-tags: [ Opini ]
+categories: [Opini]
+tags: [Opini]
 image: "https://res.cloudinary.com/jasjuslover/image/upload/q_40/v1595493832/blog-husnikamal/private_i3alyv.jpg"
 ---
 

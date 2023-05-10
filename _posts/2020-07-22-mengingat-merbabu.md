@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "Mengingat Merbabu"
+title: "Mengingat Merbabu"
 author: jasjuslover
-categories: [ Traveling ]
-tags: [ Indonesia ]
+categories: [Traveling]
+tags: [Indonesia]
 image: "https://res.cloudinary.com/jasjuslover/image/upload/q_40/v1595472585/blog-husnikamal/merbabu_gno6ik.jpg"
 ---
 

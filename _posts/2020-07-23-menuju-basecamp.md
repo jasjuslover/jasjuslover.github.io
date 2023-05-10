@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "Menuju Basecamp"
+title: "Menuju Basecamp"
 author: jasjuslover
-categories: [ Traveling ]
-tags: [ Indonesia ]
+categories: [Traveling]
+tags: [Indonesia]
 image: "https://res.cloudinary.com/jasjuslover/image/upload/q_40/v1595477314/blog-husnikamal/merbabu_chxrel.jpg"
 ---
 
@@ -12,6 +12,7 @@ Tentang pengelanaan kali ini. Bersama bunga yang masih bermekaran di pucuk gunun
 11 Jam yang sangat lama. Bersusah payah untuk memejamkan mata, walau hanya sekejap. 11 Jam yang sangat melelahkan. Walaupun kereta berhenti di beberapa stasiun, hatinya terlalu enggan untuk melangkahkan kaki menghirup udara stasiun.
 
 #### Stasiun Purwosari
+
 Ia pun lantas menuju musholla yang ada di stasiun tersebut. Menaruh tas carrier, lalu mengambil wudhu. Dengan khusyu ia tunaikan shalat 'Isya dan Maghrib dengan jama' ta'khir, lalu duduk di luar dengan tenang. Ia pun melihat kesekelilingnya. Si pemuda baru kali merasakan suasana stasiun di daerah Jawa Tengah. Sebelumnya ia hanya pernah ke Jawa Tengah dengan menaiki bus. Itu pun bus pariwisata, rombongan dari kampungnya.
 
 Stasiun purwosari menjadi titik temu antara rombongan si pemuda, rombongan Bandung yang satu gerbong, satu orang kawan dari Jakarta, juga kawan yang baru turun dari Gunung Prau. Setelah semua terkumpul, suhe menghitung jumlah total dari rombongan, dan kemudia menghubungi supir dari basecamp yang menyediakan jemputan untuk ke Gunung Merbabu.
@@ -19,6 +20,7 @@ Stasiun purwosari menjadi titik temu antara rombongan si pemuda, rombongan Bandu
 Awalnya, supir agak sulit untuk dihubungi, namun karena hanya ada satu-satunya mobil terparkir di parkiran stasiun subuh itu, suhe pun berinisiatif untuk mengetok pintu mobil tersebut. Disamping karena si supir juga sudah memberi tahu sebelumnya kalau ia juga sudah berada di stasiun. Dan ternyata benar. Si supir menunggu sampai ketiduran. Setelah semuanya siap, mereka pun berangkat menuju pasar terlebih dahulu untuk membeli keperluan logistik. Setelah selesai, mobil pun berangkat menuju basecamp, salah satu basecamp terkenal dan paling tua. Basecamp pak Parman.
 
 #### Stasiun - Pasar - Basecamp
+
 Setelah dari pasar, perjalanan yang ditempuh, kurang lebih adalah 30 menit untuk sampai ke basecamp. Perjalanan menuju basecamp di Selo ini merupakan pemandangan yang sangat indah. Sebelum mencapai basecamp, mata akan disuguhkan pemandangan dari gagahnya Gunung Merapi. Si pemuda bergumam dalam hati,
 
 "Belum pernah aku melihat merapi sedekat ini!".
