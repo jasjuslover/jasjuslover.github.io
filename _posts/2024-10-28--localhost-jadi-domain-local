@@ -1,0 +1,11 @@
+---
+layout: post
+title: "localhost Jadi Domain Local"
+author: jasjuslover
+categories: [Opini]
+tags: [Opini]
+---
+
+Main issue yang biasa didapatkan ketika develop beberapa project sekaligus adalah masalah localStorage dan cookies yang tercampur. As a React developer, ketika saya mengakses url development local, yaitu http://localhost:3000, semua session dari project akan tercampur, khususnya yang memakai cookie dan localStorage. Maka dari itu, berikut bisa dijadikan sebagai referensi untuk menghindari hal tersebut.
+
+hostile
