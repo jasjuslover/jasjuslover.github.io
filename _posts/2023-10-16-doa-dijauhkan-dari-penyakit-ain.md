@@ -11,6 +11,8 @@ Dalam kehidupan, mau itu sukses ataupun gagal, akan selalu ada yang tidak menyuk
 
 Sesuai nasihat guru, "Ketika kita sedang diatas, berhati-hatilah. Bisa jadi kita akan tertimpa penyakit, bisa jadi itu adalah bala' 'ain. Maka dari itu bacalah
 
-اللهم اجعلني خير مما يظنون. ولا تؤاخذني بما يقولون. واغفرلي ما لا يعلمون
+<p class="amiri">
+  اللهم اجعلني خير مما يظنون. ولا تؤاخذني بما يقولون. واغفرلي ما لا يعلمون
+</p>
 
 Insyaa Allah, akan dijauhkan dari Bala' 'Ain"
