@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "localhost Jadi Domain Local"
+title: "Cache Sederhana Menggunakan React Query"
 author: jasjuslover
-categories: [Opini]
-tags: [Opini]
+categories: [Programming,TypeScript]
+tags: [Programming]
 ---
 
 Dalam pengembangan aplikasi web modern, caching merupakan teknik penting untuk meningkatkan performa aplikasi dan mengurangi beban server. React Query adalah salah satu library yang banyak digunakan untuk manajemen data dan caching di aplikasi React. Biasanya, React Query menggunakan hook `useQuery` untuk mengambil dan menyimpan data secara otomatis dalam cache. Namun, ada kalanya kita ingin mengelola cache secara manual tanpa menggunakan `useQuery`. Pada artikel ini, kita akan membahas cara menggunakan `queryClient.setQueryData` untuk memanipulasi cache secara langsung.
