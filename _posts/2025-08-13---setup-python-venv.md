@@ -1,3 +1,11 @@
+---
+layout: post
+title: "Setup Python venv"
+author: jasjuslover
+categories: [Programming,Python]
+tags: [Programming]
+---
+
 `venv` (virtual environment) adalah alat di Python yang digunakan untuk membuat lingkungan terisolasi bagi proyek Python Anda. Tujuannya adalah untuk memisahkan dependensi proyek yang berbeda, sehingga setiap proyek dapat memiliki versi paket dan library yang berbeda tanpa saling memengaruhi. Dengan menggunakan `venv`, Anda dapat menjaga proyek Anda tetap terorganisir dan memastikan bahwa versi paket yang digunakan sesuai dengan kebutuhan proyek tanpa mengganggu pengaturan global Python di sistem.
 
 Virtual environment sangat berguna ketika bekerja dengan beberapa proyek Python di satu mesin, karena setiap proyek bisa memiliki dependensi yang berbeda. Selain itu, `venv` memungkinkan Anda untuk menghindari konflik antara versi paket yang berbeda, mengurangi kemungkinan masalah saat menjalankan proyek yang menggunakan versi library yang lebih lama atau lebih baru.
